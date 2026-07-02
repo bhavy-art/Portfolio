@@ -6,7 +6,7 @@
 }
 
 body{
-    background:#0f172a;
+    background: #0f172a;
     color:white;
 }
 
@@ -431,9 +431,7 @@ nav ul img:hover{
 
 
 /* Education */
-/* ==========================
-      Education Section
-========================== */
+
 
 .education-section{
     padding:80px 10%;
@@ -548,9 +546,6 @@ nav ul img:hover{
 
 
 /* Projects */
-/*==========================
-       Projects Section
-==========================*/
 
 .projects-section{
     padding:80px 10%;
@@ -674,9 +669,7 @@ nav ul img:hover{
 
 
 /* Contact */
-/*=========================
-      Contact Section
-=========================*/
+
 
 .contact-section{
     padding:80px 10%;
@@ -786,9 +779,7 @@ nav ul img:hover{
 
 
 /* Footer */
-/*=========================
-        Footer
-=========================*/
+
 
 .footer{
     background:#020617;
